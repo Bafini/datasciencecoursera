@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research Project 1"
+title: "Reproducible Research Project 2"
 author: "Pedro Fonseca"
 date: "02/05/2020"
 output: html_document
